@@ -1,0 +1,55 @@
+﻿生成启动时间为 2018/12/16 15:10:18。
+     1>项目“C:\Users\Administrator\Desktop\chepaitest\word\MLP bp2 hangzi\MLP bp2 hangzi\MLP bp2 hangzi.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\visualstudio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(1): error C2146: 语法错误: 缺少“;”(在标识符“inputs2”的前面)
+     1>c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(1): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(1): error C2065: “CV_32FC1”: 未声明的标识符
+     1>c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(1): error C3861: “Scalar”:  找不到标识符
+     1>c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(1): error C2078: 初始值设定项太多
+     1>c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(3): error C2146: 语法错误: 缺少“;”(在标识符“file1”的前面)
+     1>c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(3): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(3): error C2440: “初始化”: 无法从“const char [9]”转换为“int”
+                 没有使该转换得以执行的上下文
+     1>c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(5): error C2059: 语法错误:“for”
+     1>c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(5): error C2143: 语法错误 : 缺少“)”(在“;”的前面)
+     1>c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(5): error C2143: 语法错误 : 缺少“;”(在“<”的前面)
+     1>c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(5): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(5): error C2086: “int imgindex2”: 重定义
+                 c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(4) : 参见“imgindex2”的声明
+     1>c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(5): error C2143: 语法错误 : 缺少“;”(在“++”的前面)
+                 c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(4) : 参见“imgindex2”的声明
+     1>c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(5): error C2059: 语法错误:“)”
+     1>c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(6): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(6): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+     1>c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(27): error C2146: 语法错误: 缺少“;”(在标识符“outputs2”的前面)
+     1>c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(27): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(27): error C2086: “int Mat”: 重定义
+                 c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(1) : 参见“Mat”的声明
+     1>c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(27): error C2065: “CV_32FC1”: 未声明的标识符
+     1>c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(27): error C3861: “Scalar”:  找不到标识符
+     1>c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(27): error C2078: 初始值设定项太多
+     1>c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(28): error C2146: 语法错误: 缺少“;”(在标识符“mlData2”的前面)
+     1>c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(28): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(29): error C2143: 语法错误 : 缺少“;”(在“.”的前面)
+     1>c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(29): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(29): error C2086: “int mlData2”: 重定义
+                 c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(28) : 参见“mlData2”的声明
+     1>c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(30): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(30): error C2374: “outputs2”: 重定义；多次初始化
+                 c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(27) : 参见“outputs2”的声明
+     1>c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(30): error C2228: “.get_values”的左边必须有类/结构/联合
+                 类型是“int”
+     1>c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(30): error C2064: 项不会计算为接受 2 个参数的函数
+     1>c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(33): error C2143: 语法错误 : 缺少“;”(在“.”的前面)
+     1>c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(33): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(34): error C2143: 语法错误 : 缺少“;”(在“.”的前面)
+     1>c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(34): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(34): error C2086: “int bp2”: 重定义
+                 c:\users\administrator\desktop\chepaitest\word\mlp bp2 hangzi\mlp bp2 hangzi\源.cpp(33) : 参见“bp2”的声明
+     1>已完成生成项目“C:\Users\Administrator\Desktop\chepaitest\word\MLP bp2 hangzi\MLP bp2 hangzi\MLP bp2 hangzi.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.58
